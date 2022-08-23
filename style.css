@@ -184,7 +184,7 @@ footer {
 }
 
 /* Small Phones, Tablets, Large Smartphone */
-@media (max-width: 728px;) {
+@media (max-width: 728px) {
 .row {
     flex-direction: column;
 }
